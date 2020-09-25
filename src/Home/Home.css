@@ -1,0 +1,23 @@
+.wall{
+    position: relative;
+}
+.homeHeading{
+    position: absolute;
+    text-align: center;
+    color: #132743;
+    right: 35%;
+    top: 10%;
+}
+.wallImage{
+    width: 100%;
+    height: 90vh;
+}
+.button{
+    width: 200px;
+    position: absolute;
+    right: 10%;
+    bottom: 5%;
+}
+.link{
+    color: white;
+}

@@ -1,0 +1,14 @@
+.assemblingHeading{
+    text-align: center;
+    color: blueviolet;
+}
+.canvas{
+    border: black 2px solid;
+}
+.canva{
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.elements{
+    border-right: black 1px solid;
+}

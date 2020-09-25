@@ -1,0 +1,26 @@
+.wallComponents{
+    background-color: #d9ecf2;
+}
+.partsHeading{
+    text-align: center;
+    color: brown;
+}
+.img-container{
+    width: 100%;
+    margin-top: 50px;
+    margin-right: 40px;
+    margin-left: 70px;
+}
+.row{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.image{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.button{
+    width: 200px;
+    left: 85%;
+}
